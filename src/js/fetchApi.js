@@ -13,7 +13,7 @@ const showData = async () => {
     // console.log(response)
     // console.log(data);
     data.map( async (id) => {
-        const newsData = await axios.get(`${hackerNewsItem}${id}.json`); //fect news with id number
+        const newsData = await axios.get(`${hackerNewsItem}${id}.json`); //fetch news with id number
         const newsItem = newsData.data;
         // console.log(newsItem)
         dataNewsUI(newsItem);
