@@ -14,7 +14,7 @@ This app fetch the data from HackerNews free api, and then display it ten at a t
 * A favorite bottom to show the items that you saved.
 
 ![Home](src/screen-shots/home-page.png)
-![Favorite](src/screen-shots/home-page-favorite.png)
+![Favorite](src/screen-shots/home-favorite.png)
 ![Mobile](src/screen-shots/home-mobile.png)
 ![Mobile Favorite](src/screen-shots/home-mobile-favorite.png)
 
