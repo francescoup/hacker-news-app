@@ -1,4 +1,4 @@
-###Hacker News Web App</br>
+### Hacker News Web App</br>
 A simple app for democratize and spread tech news.
 ## Table of Contents
 [General info](#general-info)</br>
@@ -13,10 +13,10 @@ This app fetch the data from HackerNews free api, and then display it ten at a t
 * A save bottom to save the more interesting news.
 * A favorite bottom to show the items that you saved.
 
-![Home](.src/screen-shots/home-page.png)
-![Favorite](.src/screen-shots/home-page-favorite.png)
-![Mobile](.src/screen-shots/home-mobile.png)
-![Mobile Favorite](.src/screen-shots/home-mobile-favorite.png)
+![Home](src/screen-shots/home-page.png)
+![Favorite](src/screen-shots/home-page-favorite.png)
+![Mobile](src/screen-shots/home-mobile.png)
+![Mobile Favorite](src/screen-shots/home-mobile-favorite.png)
 
 ### Technologies 
 
